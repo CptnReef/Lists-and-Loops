@@ -18,6 +18,4 @@ print(songs)
 del songs[5]
 print(songs)
 
-print("\n") #Question 5
-
 print("\n") #Question 6
